@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  color: orange;
+  font-style: italic;
+}
+label {
+  font-style: oblique;
+}
+input {
+  background-color: lightgrey;
+}
+textarea {
+  background-color: lightgrey;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+}
